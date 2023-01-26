@@ -4,26 +4,19 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
-    {
-        title: "Junior Machine Learning Engineer",
-        cardImage: "assets/images/experience-page/omdena.png",
-        place: "Omdena Algeria Chapter",
-        time: "(Oct, 2022 - present)",
-        desp: "<li>Selected as one of the 60 contributors to work on the project titled - Green Algeria Project: Building an Intelligent Control System for Greenhouses - Part 2.</li> ",
-      },
       {
         title: "Research Intern",
         cardImage: "assets/images/experience-page/spartificial.png",
         place: "Spartificial",
-        time: "(Sept, 2022 - present)",
-        desp: "<li>Worked on some projects related to Artificial Intelligence for Lunar Exploration</li>",
+        time: "(Dec, 2022 - present)",
+        desp: "<li>As a Machine Learning Research Intern, worked on the Project titled-Image Caption Generator.</li><li>Technologies used: Python, OpenCV, Numpy, Pandas, Matplotlib, Tensorflow.</li><li>Contributed to the project with a team of 5 members and learned a lot of things.</li>",
       },
       {
-        title: "Data Analyst",
-        cardImage: "assets/images/experience-page/trainity.jpg",
-        place: "Trainity",
-        time: "(Nov, 2022 - present)",
-        desp:"<li>Worked on some data analysis projects that include Instagram User Analytics , Operation & Metric Analytics , Hiring Process Analytics , IMDB Movie Analysis and many more. </li>",
+        title: "Machine Learning Engineer",
+        cardImage: "assets/images/experience-page/omdena.png",
+        place: "Omdena Algeria Chapter",
+        time: "(Sept,2022 - Nove,2022)",
+        desp: "<li>Selected as one of the 60 contributors to work on the project titled - Green Algeria Project: Building an Intelligent Control System for Greenhouses - Part 2.</li><li>Used and learned techniques like Web Scrapping, Data collection, Data cleaning and Model Building.</li><li>Contributed to the community project with a team of 60 members and learned a lot of things.</li>",
       },
       {
         title: "Web Development Intern",
