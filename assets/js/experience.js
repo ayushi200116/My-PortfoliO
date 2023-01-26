@@ -15,7 +15,7 @@ const exp = [
         title: "Machine Learning Engineer",
         cardImage: "assets/images/experience-page/omdena.png",
         place: "Omdena Algeria Chapter",
-        time: "(Sept,2022 - Nove,2022)",
+        time: "(Sept,2022 - Nov,2022)",
         desp: "<li>Selected as one of the 60 contributors to work on the project titled - Green Algeria Project: Building an Intelligent Control System for Greenhouses - Part 2.</li><li>Used and learned techniques like Web Scrapping, Data collection, Data cleaning and Model Building.</li><li>Contributed to the community project with a team of 60 members and learned a lot of things.</li>",
       },
       {
