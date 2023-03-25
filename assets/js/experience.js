@@ -5,25 +5,32 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
       {
-        title: "Research Intern",
+        title: "Machine Learning Research Intern",
         cardImage: "assets/images/experience-page/spartificial.png",
-        place: "Spartificial",
-        time: "(Dec, 2022 - present)",
-        desp: "<li>As a Machine Learning Research Intern, worked on the Project titled-Image Caption Generator.</li><li>Technologies used: Python, OpenCV, Numpy, Pandas, Matplotlib, Tensorflow.</li><li>Contributed to the project with a team of 5 members and learned a lot of things.</li>",
+        place: "Spartificial Innovations Private Limited",
+        time: "(Dec, 2022 - Feb, 2022)",
+        desp: "<li>Worked on the Project titled 'Image Caption Generator' with a team of 5 members.</li><li>This was a project based research internship, in the field of CV and NLP applied to Flickr80k dataset for Image captioning which was deployed as a Web-app using Html, Css, Javascript  and Flask.</li>",
       },
       {
-        title: "Machine Learning Engineer",
+        title: "Machine Learning Engineer Intern",
         cardImage: "assets/images/experience-page/omdena.png",
         place: "Omdena Algeria Chapter",
         time: "(Sept,2022 - Nov,2022)",
-        desp: "<li>Selected as one of the 60 contributors to work on the project titled - Green Algeria Project: Building an Intelligent Control System for Greenhouses - Part 2.</li><li>Used and learned techniques like Web Scrapping, Data collection, Data cleaning and Model Building.</li><li>Contributed to the community project with a team of 60 members and learned a lot of things.</li>",
+        desp: "<li>Selected as one of the 60 contributors to work on the project titled 'Green Algeria Project: Building an Intelligent Control System for Greenhouses - Part 2' with a team of 30 members.</li><li>Used and learned techniques like Web Scrapping, Data collection, Data cleaning and Model Building.</li>",
+      },
+      {
+        title: "Technical Assistant Intern",
+        cardImage: "assets/images/experience-page/vityarthi.png",
+        place: "VITyarthi",
+        time: "(Sept,2022 - Nov,2022)",
+        desp: "<li>Created content, presentations and scripts for Computer Vision course titled 'Vision without eyes'.</li><li>Total duration of this course was 6 hours.</li>",
       },
       {
         title: "Web Development Intern",
         cardImage: "assets/images/experience-page/letsgrowmore.png",
         place: "LetsGrowMore",
         time: "(Jan, 2022 - Feb, 2022)",
-        desp:"<li>Created a single page webpage using Html, Css and JavaScript.</li><li>Also created a web application using create-react-app which uses API to fetch user data.</li>",
+        desp:"<li>Designed frontend of Bakery website using Html, Css and JavaScript. </li><li>Developed a web application using create-react-app which uses API to fetch user data.</li>",
       },
 ];
 
@@ -65,13 +72,13 @@ const volunteershipcards = [
     title: "Core Member Design Team",
     cardImage: "assets/images/experience-page/aiclub.png",
     description:
-      "Creating various posters, posts and designs for AI club",
+      "Contributed by designing various posters, posts and designs for AI-related activities",
   },
   {
     title: "Core Member  Design Team",
     cardImage: "assets/images/experience-page/ecell.jpg",
     description:
-      "Creating various posters, posts and designs for E cell",
+      "Designed various posters, posts and designs for Ecell-related initiatives ",
   },
 ];
 

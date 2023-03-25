@@ -6,14 +6,24 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: " GreenAI: Ml-Driven Irrigation And Crop Yield Prediction System",
+    cardImage: "assets/images/project-page/GreenAI.jpg",
+    Githublink: "https://github.com/ayushi200116/Automated-Irrigation-System",
+  },
+  {
+    title: "Image Caption Generator",
+    cardImage: "assets/images/project-page/caption.jpg",
+    Githublink: "https://github.com/ayushi200116/Image-Caption-Generator",
+  },
+  {
     title: "Memo Mailing Application",
     cardImage: "assets/images/project-page/mail.jpg",
-    Githublink: "https://github.com/adityarags/MemoIt-Memo-Mailing-application",
+    Githublink: "https://github.com/ayushi200116/MemoIt-Memo-Mailing-application",
   },
   {
     title: "Locking Mechanism Application",
     cardImage: "assets/images/project-page/lock.png",
-    Githublink: "https://github.com/adityarags/App-Lock-using-ML",
+    Githublink: "https://github.com/ayushi200116/Intelligent-Security-System-With-Machine-Learning",
   },
   {
     title: "Weather Forecasting",
@@ -33,7 +43,7 @@ const projects = [
   {
     title: "Face Detection",
     cardImage: "assets/images/project-page/face.png",
-    Githublink: "https://github.com/ayushi200116/Face-Detection-",
+    Githublink: "https://github.com/ayushi200116/Face-Detection",
   },
 ];
 
