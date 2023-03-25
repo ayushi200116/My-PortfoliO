@@ -4,8 +4,12 @@ AOS.init();
 
 const moocs = document.querySelector(".moocs");
 const moocscards = [
-  {
-    
+  { 
+    title: "Fundamentals of Data Analytics  ",
+    cardImage: "assets/images/education-page/futureskills.png",
+    moocLink: "https://drive.google.com/file/d/1gRbUl-kQrCFvr_7hnQBojlIdgXE8eQT8/view",
+  },
+  { 
     title: "AWS Machine Learning Foundation Course",
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink: "https://confirm.udacity.com/RVVA7ZK5",
@@ -17,7 +21,7 @@ const moocscards = [
   },
   {
     title: "Learning Python",
-    cardImage: "assets/images/education-page/linkedln.png",
+    cardImage: "assets/images/education-page/linkedln.jpg",
     moocLink: "https://drive.google.com/file/d/1Ao5UJ0o0fHul-81rpEi-bWzJIr1ENRdR/view?usp=sharing",
   },
   {
@@ -27,13 +31,8 @@ const moocscards = [
   },
   {
     title: "opencv",
-    cardImage: "assets/images/education-page/linkedln.png",
+    cardImage: "assets/images/education-page/linkedln.jpg",
     moocLink: "https://www.linkedin.com/learning/certificates/b17af1cb4c9cae607a8ae2b895296342afbe6467e2da53985ab647c6ca13980b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bp2is40GpRreXa5Byb%2Fqilg%3D%3D",
-  },
-  {
-    title: "NumPy",
-    cardImage: "assets/images/education-page/linkedln.png",
-    moocLink: "https://www.linkedin.com/learning/certificates/768bc9a4eef7333738d5a385b572d0951af51fe0b47519aeb80713ca33e9a239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bp2is40GpRreXa5Byb%2Fqilg%3D%3D",
   },
   {
     title: "Convolutional Neural Networks in Python: CNN Computer Vision",
