@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "Image Caption Generator",
-    cardImage: "assets/images/project-page/caption.jpg",
+    cardImage: "assets/images/project-page/cap.jpg",
     Githublink: "https://github.com/ayushi200116/Image-Caption-Generator",
   },
   {
