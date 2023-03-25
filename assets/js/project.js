@@ -21,7 +21,7 @@ const projects = [
     Githublink: "https://github.com/ayushi200116/MemoIt-Memo-Mailing-application",
   },
   {
-    title: "Locking Mechanism Application",
+    title: "Intelligent Security System With Machine Learning",
     cardImage: "assets/images/project-page/lock.png",
     Githublink: "https://github.com/ayushi200116/Intelligent-Security-System-With-Machine-Learning",
   },
